@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rfgbo23i9pxa4os1?svg=true)](https://ci.appveyor.com/project/dieweltverbrennt/ajs-object)
